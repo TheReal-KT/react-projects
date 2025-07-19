@@ -25,5 +25,14 @@ export default [
         date: "Dates: 01 Oct, 2021 - 18 Nov, 2021",
         info: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
         img: "https://scrimba.com/links/travel-journal-norway-image-url"
+    }, 
+    { 
+        id: 4, 
+        title: "Dubai",
+        location: "United Arab Emirates",
+        link: "https://maps.app.goo.gl/duDez2RPXcEkkyvr",
+        date: "Dates: 01 Oct, 2021 - 18 Nov, 2021",
+        info: "Dubai is the fastest growing city in the world, with a population of about a million people which took about 50 years to build",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsxhN8lUkhnmPPGkU1wXKdiCsTJKGLYXoL1Q&s"
     }
 ]
